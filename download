@@ -1,0 +1,11 @@
+.git
+.env
+**/__pycache__
+*.pyc
+samples
+*.md
+deobf/research
+deobf/bin/luau
+deobf/bin/luau.exe
+deobf/bin/luau-ast
+deobf/bin/luau-ast.exe
